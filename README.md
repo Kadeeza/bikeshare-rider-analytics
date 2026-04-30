@@ -119,5 +119,5 @@ This project demonstrates how data can support strategic decisions such as:
 
 Add a screenshot here for stronger recruiter impact.
 
-```markdown
-![Dashboard Preview](Tableu Bike Rides Project.png)
+markdown
+![Dashboard Preview](dashboard_preview.png)
