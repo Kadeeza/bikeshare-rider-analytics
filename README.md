@@ -116,8 +116,4 @@ This project demonstrates how data can support strategic decisions such as:
 ---
 
 ## 🖼 Dashboard Preview
-
-Add a screenshot here for stronger recruiter impact.
-
-markdown
 ![Dashboard Preview](dashboard_preview.png)
